@@ -2,51 +2,51 @@
 
 ## Documentation
 
-	### ReadMe Files
+### ReadMe Files
 	
-	### Code Documentation
+### Code Documentation
 	
 ## Development Versions
 	
-	### Alpha 
+### Alpha 
 	
-	### Beta
+### Beta
 	
-	### Early Release
+### Early Release
 	
-	### Release
+### Release
 	
-	### Minor Updates
+### Minor Updates
 	
-	### Major Updates
+### Major Updates
 	
 ## Code Handling
 
-	### Simulation First Development
+### Simulation First Development
 	
-	### Simulated Unit Tests
+### Simulated Unit Tests
 	
-	### Specific Unit Tests
+### Specific Unit Tests
 	
 ## Code Commentary
 	
-	### Project Summary 
+### Project Summary 
 	
-	### Class Commentary
+### Class Commentary
 	
-	### Function Commentary
+### Function Commentary
 	
-	### Specific Commentary
+### Specific Commentary
 	
 ## Data Handling
 
-	### Sensitive Data
+### Sensitive Data
 	
-	### Anonymized Data
+### Anonymized Data
 	
-	### Simulated Data
+### Simulated Data
 	
-	### Public Data
+### Public Data
 	
 
 	
